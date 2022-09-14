@@ -1,2 +1,2 @@
 # learn1
-learning is first time
+learning git first time
